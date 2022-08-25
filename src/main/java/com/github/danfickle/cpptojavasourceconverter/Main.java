@@ -20,7 +20,7 @@ import org.eclipse.cdt.internal.core.parser.scanner.InternalFileContentProvider;
 
 public class Main
 {
-	final static String HOME_PATH = "/home/daniel/workspace/cpp-to-java-source-converter/";
+	final static String HOME_PATH = "/C:/Users/Ilmax/Documents/IDEA/cpp-to-java-source-converter/";
 	
 	public static void main(String... args) throws Exception
 	{
